@@ -1,4 +1,7 @@
-# 💼 Portafolio Personal — Ivonee Montserrat Vargas Vicente
+INSTITUTO TECNOLOGICO DE OAXACA 
+PROGRAMACION WEB 
+#  Portafolio Personal — Ivonee Montserrat Vargas Vicente
+
 
 Portafolio web personal de **Ivonee Montserrat Vargas Vicente**, estudiante de Ingeniería en
 Sistemas Computacionales. Es un sitio de una sola página construido con **HTML, CSS y
@@ -6,15 +9,15 @@ JavaScript**, usando **Bootstrap 5** como framework de estilos, a partir de la p
 **Resume** de Start Bootstrap. Muestra quién soy, mis proyectos, mi formación académica, mis
 habilidades técnicas y una forma de contactarme.
 
-🔗 **Repositorio:** `https://github.com/Ivonee-Montserrat-Vargas-Vicente/TU-REPOSITORIO`
-🌐 **GitHub Pages (demo en vivo):** `https://ivonee-montserrat-vargas-vicente.github.io/TU-REPOSITORIO/`
+ **Repositorio:** `https://github.com/Ivonee-Montserrat-Vargas-Vicente/TU-REPOSITORIO`
+ **GitHub Pages (demo en vivo):** `https://ivonee-montserrat-vargas-vicente.github.io/TU-REPOSITORIO/`
 
-> ⚠️ Reemplaza `TU-REPOSITORIO` por el nombre real de tu repositorio una vez que lo subas
+>  Reemplaza `TU-REPOSITORIO` por el nombre real de tu repositorio una vez que lo subas
 > y actives GitHub Pages.
 
 ---
 
-## 📖 Descripción del proyecto
+##  Descripción del proyecto
 
 - **Framework CSS usado:** Bootstrap 5 (no se combina con Tailwind).
 - **Plantilla específica:** Start Bootstrap - Resume.
@@ -39,7 +42,7 @@ suave. Las secciones, en el orden en que aparecen en el menú, son:
 
 ---
 
-## 🛠️ Proceso de creación
+##  Proceso de creación
 
 Así fue cómo armé el portafolio a partir de la plantilla, paso a paso:
 
@@ -82,7 +85,8 @@ Así fue cómo armé el portafolio a partir de la plantilla, paso a paso:
 
 ---
 
-## 🗂️ Estructura del repositorio
+##  Estructura del repositorio
+---
 ├── README.md
 ├── index.html
 ├── css/
@@ -102,23 +106,20 @@ Portafolio funcionando en el navegador:
 
 **Sección "Sobre mí"**
 
-![Sección Sobre mí](img/screenshots/sobre-mi.png)
+<img width="1107" height="496" alt="image" src="https://github.com/user-attachments/assets/a6afa284-5314-4852-b95a-d465a85ab069" />
+
 
 **Sección "Proyectos"**
 
-![Sección Proyectos](img/screenshots/proyectos.png)
+<img width="1107" height="609" alt="image" src="https://github.com/user-attachments/assets/cdba2f16-4810-40f7-bf74-4be4e7cd090b" />
+
 
 **Sección "Contacto"**
 
-![Sección Contacto](img/screenshots/contacto.png)
-
-> 📌 Para que estas imágenes se vean, crea la carpeta `img/screenshots/`, guarda ahí tus
-> capturas con esos nombres (`sobre-mi.png`, `proyectos.png`, `contacto.png`) y súbelas junto
-> con el resto del proyecto.
-
+!<img width="1115" height="469" alt="image" src="https://github.com/user-attachments/assets/5986c2f8-5482-44dd-a0cd-cad3e5c8e9c0" />
 ---
 
-## 🚀 Cómo ver el proyecto localmente
+##  Cómo ver el proyecto localmente
 
 1. Clona el repositorio:
 ```bash
@@ -126,15 +127,6 @@ Portafolio funcionando en el navegador:
 ```
 2. Entra a la carpeta del proyecto y abre `index.html` directamente en tu navegador,
    o usa una extensión como *Live Server* en VS Code.
-
-## 🌐 Cómo activar GitHub Pages
-
-1. Ve a tu repositorio en GitHub → **Settings** → **Pages**.
-2. En **Source**, selecciona la rama `main` y la carpeta `/ (root)`.
-3. Guarda los cambios y espera un par de minutos.
-4. El link de tu portafolio en vivo aparecerá en esa misma sección
-   (formato `https://ivonee-montserrat-vargas-vicente.github.io/TU-REPOSITORIO/`).
-
 ---
 
 ## 📄 Créditos
