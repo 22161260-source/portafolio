@@ -1,13 +1,10 @@
 INSTITUTO TECNOLOGICO DE OAXACA 
-PROGRAMACION WEB 
+  PROGRAMACION WEB 
 #  Portafolio Personal — Ivonee Montserrat Vargas Vicente
 
 
-Portafolio web personal de **Ivonee Montserrat Vargas Vicente**, estudiante de Ingeniería en
-Sistemas Computacionales. Es un sitio de una sola página construido con **HTML, CSS y
-JavaScript**, usando **Bootstrap 5** como framework de estilos, a partir de la plantilla
-**Resume** de Start Bootstrap. Muestra quién soy, mis proyectos, mi formación académica, mis
-habilidades técnicas y una forma de contactarme.
+Portafolio web personal de **Ivonee Montserrat Vargas Vicente**, estudiante de Ingeniería en Sistemas Computacionales. Es un sitio de una sola página construido con **HTML, CSS y JavaScript**, usando **Bootstrap 5** como framework de estilos, a partir de la plantilla
+**Resume** de Start Bootstrap. Muestra quién soy, mis proyectos, mi formación académica, mis habilidades técnicas y una forma de contactarme.
 
  **Repositorio:** `https://github.com/Ivonee-Montserrat-Vargas-Vicente/TU-REPOSITORIO`
  **GitHub Pages (demo en vivo):** `https://ivonee-montserrat-vargas-vicente.github.io/TU-REPOSITORIO/`
@@ -85,22 +82,9 @@ Así fue cómo armé el portafolio a partir de la plantilla, paso a paso:
 
 ---
 
-##  Estructura del repositorio
----
-├── README.md
-├── index.html
-├── css/
-│   ├── styles.css        # CSS base de la plantilla (Bootstrap 5 + tema)
-│   └── portafolio.css    # Estilos personalizados
-├── js/
-│   ├── scripts.js        # JS base de la plantilla (scrollspy, menú)
-│   └── portafolio.js     # JS personalizado (validación del formulario)
-└── img/
-├── profile.jpg        # Foto de perfil
-└── favicon.ico
----
 
-## 📸 Capturas de pantalla
+
+##  Capturas de pantalla
 
 Portafolio funcionando en el navegador:
 
@@ -113,6 +97,14 @@ Portafolio funcionando en el navegador:
 
 <img width="1107" height="609" alt="image" src="https://github.com/user-attachments/assets/cdba2f16-4810-40f7-bf74-4be4e7cd090b" />
 
+**Sección "Educacion"**
+<img width="1120" height="426" alt="image" src="https://github.com/user-attachments/assets/383f38ae-9547-4b6f-99cf-9dbc3423e8ee" />
+
+**Sección "Habilidades"**
+<img width="755" height="465" alt="image" src="https://github.com/user-attachments/assets/38abf962-5aa5-4e1e-9157-72868489dcf4" />
+
+**Sección "Intereses"**
+<img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/3907ecd3-8995-437a-b67c-049ef2d1bead" />
 
 **Sección "Contacto"**
 
@@ -129,7 +121,7 @@ Portafolio funcionando en el navegador:
    o usa una extensión como *Live Server* en VS Code.
 ---
 
-## 📄 Créditos
+##  Créditos
 
 - Plantilla base: [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume) por
   David Miller / Start Bootstrap, licencia MIT.
