@@ -112,7 +112,7 @@ Portafolio funcionando en el navegador:
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/Ivonee-Montserrat-Vargas-Vicente/TU-REPOSITORIO.git
+   git clone https://github.com/22161260-source/portafolio.git
 ```
 2. Entra a la carpeta del proyecto y abre `index.html` directamente en tu navegador,
    o usa una extensión como *Live Server* en VS Code.
