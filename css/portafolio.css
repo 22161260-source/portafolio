@@ -1,0 +1,45 @@
+/*
+ * portafolio.css
+ * Estilos personalizados que se agregan sobre la base de la plantilla
+ * Start Bootstrap - Resume (css/styles.css).
+ * Aquí se pueden modificar colores, tipografía o detalles propios
+ * sin tocar el archivo original de la plantilla.
+ */
+
+/* Cambia el color principal de acento (botones, enlaces, año en experiencia, etc.) */
+:root {
+    --bs-primary: #2f6f4f;
+}
+
+/* Un poco más de espacio y sombra suave en la foto de perfil */
+.img-profile {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+}
+
+/* Tarjetas de proyectos: pequeño resalte al pasar el mouse */
+#experience .flex-grow-1 {
+    transition: transform 0.2s ease-in-out;
+}
+#experience .flex-grow-1:hover {
+    transform: translateX(6px);
+}
+
+/* Iconos de habilidades un poco más grandes y con color de acento al pasar el mouse */
+.dev-icons li {
+    transition: color 0.2s ease-in-out;
+}
+.dev-icons li:hover {
+    color: var(--bs-primary);
+}
+
+/* Estilo del formulario de contacto */
+#contact .form-label {
+    font-weight: 600;
+}
+#contact .btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+}
+#formStatus .alert {
+    font-size: 0.95rem;
+}
