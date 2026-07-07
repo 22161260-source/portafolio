@@ -9,9 +9,6 @@ Portafolio web personal de **Ivonee Montserrat Vargas Vicente**, estudiante de I
  **Repositorio:** `https://github.com/22161260-source/portafolio.git`
  **GitHub Pages (demo en vivo):** `https://ivonee-montserrat-vargas-vicente.github.io/TU-REPOSITORIO/`
 
->  Reemplaza `TU-REPOSITORIO` por el nombre real de tu repositorio una vez que lo subas
-> y actives GitHub Pages.
-
 ---
 
 ##  Descripción del proyecto
